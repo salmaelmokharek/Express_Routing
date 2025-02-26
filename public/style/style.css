@@ -1,0 +1,9 @@
+*{
+    background-color: bisque;
+}
+
+.navbar{
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+}
